@@ -15,7 +15,7 @@ A collection of my personal vocal synth tuning files for covers.
 You're welcome to use these tuning files, but **credit is required**.
 If you use them in a cover or any other project, please credit either:
 
-- My YouTube channel: [YOUR_CHANNEL_NAME](https://www.youtube.com/@YOUR_CHANNEL_HANDLE)
+- My YouTube channel: [GraweedTeto](https://www.youtube.com/@Graweeto)
 - Or this repository: [graweedman/CoverTuningRepo](https://github.com/graweedman/CoverTuningRepo)
 
 Put the credit somewhere visible, for example in the video description.
